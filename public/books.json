@@ -1,0 +1,66 @@
+[
+    {
+      "id": "1",
+      "title": "Book 1",
+      "author": "Author 1",
+      "imageURL": "https://static.vecteezy.com/system/resources/previews/009/399/398/original/old-vintage-book-clipart-design-illustration-free-png.png",
+      "status": "IS_READING"
+    },
+    {
+      "id": "2",
+      "title": "Book 2",
+      "author": "Author 2",
+      "imageURL": "https://static.vecteezy.com/system/resources/previews/009/399/398/original/old-vintage-book-clipart-design-illustration-free-png.png",
+      "status": "WANT_TO_READ"
+    },
+    {
+      "id": "3",
+      "title": "Book 3",
+      "author": "Author 3",
+      "imageURL": "https://static.vecteezy.com/system/resources/previews/009/399/398/original/old-vintage-book-clipart-design-illustration-free-png.png",
+      "status": "READ"
+    },
+    {
+      "id": "4",
+      "title": "Book 4",
+      "author": "Author 4",
+      "imageURL": "https://static.vecteezy.com/system/resources/previews/009/399/398/original/old-vintage-book-clipart-design-illustration-free-png.png",
+      "status": "IS_READING"
+    },
+    {
+      "id": "5",
+      "title": "Book 5",
+      "author": "Author 5",
+      "imageURL": "https://static.vecteezy.com/system/resources/previews/009/399/398/original/old-vintage-book-clipart-design-illustration-free-png.png",
+      "status": "WANT_TO_READ"
+    },
+    {
+      "id": "6",
+      "title": "Book 6",
+      "author": "Author 6",
+      "imageURL": "https://static.vecteezy.com/system/resources/previews/009/399/398/original/old-vintage-book-clipart-design-illustration-free-png.png",
+      "status": "READ"
+    },
+    {
+      "id": "7",
+      "title": "Book 7",
+      "author": "Author 7",
+      "imageURL": "https://static.vecteezy.com/system/resources/previews/009/399/398/original/old-vintage-book-clipart-design-illustration-free-png.png",
+      "status": "IS_READING"
+    },
+    {
+      "id": "8",
+      "title": "Book 8",
+      "author": "Author 8",
+      "imageURL": "https://static.vecteezy.com/system/resources/previews/009/399/398/original/old-vintage-book-clipart-design-illustration-free-png.png",
+      "status": "WANT_TO_READ"
+    },
+    {
+      "id": "9",
+      "title": "Book 9",
+      "author": "Author 9",
+      "imageURL": "https://static.vecteezy.com/system/resources/previews/009/399/398/original/old-vintage-book-clipart-design-illustration-free-png.png",
+      "status": "READ"
+    }
+  ]
+  
